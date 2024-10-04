@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ... GIthub
 - 💞️ I’m looking to collaborate on ... Data Science projects 
-- 📫 How to reach me ... Twitter @dasmikeanthony
+- 📫 How to reach me ... X @dasmikeanthony
 
 <!---
 MikeFinTech/MikeFinTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
